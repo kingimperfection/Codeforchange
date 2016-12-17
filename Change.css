@@ -1,0 +1,90 @@
+nav{
+  height:80px;
+  width:90px;
+  float:right;
+  top:200px;
+  color:#F7221E;
+  font:30px;
+}
+
+main{
+    height:100px;
+    width:300px;
+    float:left;
+    top:100px;
+    color:#F7221E;
+    font-size:30px;
+}
+
+footer{
+ color:gray; 
+ font-size:30px;
+ font-family:"Times New Roman", Georgia, Serif;
+}
+
+body {
+   background-color: #98E8E2;
+   background-size: 100%;
+    background-repeat:no-repeat;
+}
+
+
+.buttonss {
+    background-color: red;
+    margin:0 auto;
+    display:block;
+    height:100px;
+    width:200px;
+    font-family:Avantgsans-serif;
+    font-size:30px;
+}
+
+.homeless {
+    height:300px;
+    width:500px;
+    right:100px;
+    top:200px;
+    
+}
+.thumbnail > img {
+    padding-left:auto;
+    padding-right:auto;
+    margin-left:auto;
+    margin-right:auto;
+    width:280px;
+    height:280px;
+}
+  .caption > p {
+    padding-left:auto;
+    padding-right:auto;
+    margin-left:auto;
+    margin-right:auto;
+    color:green;
+}
+  .caption > h3 {
+    padding-left:auto;
+    padding-right:auto;
+    margin-left:auto;
+    margin-right:auto;
+}
+  #carousel-example-generic img{
+   		width:100%;
+  }
+  .carousel-inner{
+    width:100%;
+    max-height: 500px !important;
+}
+
+/*.active:hover {
+  background-color: green;
+}*/
+
+
+
+.hh {
+    padding:30px;
+    color: darkred;
+    border: outset;
+    text-align:left
+    
+}
