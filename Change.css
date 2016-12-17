@@ -28,7 +28,7 @@ body {
     background-size: 100%;
     background-repeat:no-repeat;
     font-family:sans-serif;
-    background-image: url("http://www.india.com/wp-content/uploads/2015/12/Gifting-1-giphy.gif");
+    background-image:url(http://bestanimations.com/Signs&Shapes/Hearts/animatedhearts/pretty-pink-heart-with-life-line-heartbeat-animated-gif.gif);
 }
 
 
@@ -65,6 +65,7 @@ body {
 p.hh{
   color:cyan;
   text-align:center;
+  font-size: 40px;
 }
 
 
@@ -116,7 +117,7 @@ p.hh{
 /*** Soup Kitchen Styles ***/
 
 #new-background {
-  background-color: #CCCCCC;
+  background-color: #e5acb6;
 }
 
 .re-size-text {
@@ -130,11 +131,13 @@ p.hh{
 .img-size {
   width: 450px;
   height: 300px;
+  border-radius: 20px;
 }
 
 .soup-kitchen-div {
   width: 70%;
   margin: 0 auto;
+  padding: 45px 0;
 }
 
 .hp, .vt {
@@ -165,7 +168,7 @@ p.hh{
 .fix-font {
   font-size: 4em;
   font-weight: 300;
-  padding-top: 300px;
+  padding-top: 250px;
   color: #fff;
 }
 
@@ -175,7 +178,7 @@ p.hh{
 .abc {
     background-color:white;
     border-radius:20px;
-    opacity:0.7;
+    opacity:0.85;
     padding-left:20px;
     padding-right:20px;
 }
@@ -196,6 +199,7 @@ font-style:oblique;
   font-size: 30px;
   font-family: monospace ;
   text-shadow: 5px 5px 5px ##FF0000;
+  opacity:0.85;
 }
 .title3{
   font-family: inherit;
@@ -234,6 +238,14 @@ background-color: skyblue;
 }
 
 .nav {
-  margin-left:0 auto;
-  margin-right:0 auto;
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+    text-align: center;
+}
+
+.bo {
+  margin-top:30px;
+  margin-bottom:10px;
+  font-size:10px;
 }
